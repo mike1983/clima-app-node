@@ -1,0 +1,4 @@
+api de clima para buscar servicios de climas
+https://openweathermap.org/api
+con correo de conctacto
+agregue un complemento a chrome para ver mas bonito los json se llama jsonview
